@@ -61,7 +61,7 @@ I’m also interested in **AI, robotics, data science and web development**
 ### 📫 Connect  
 🐙 [GitHub](https://github.com/omnimistic)  
 🌐 [Portfolio Website](#) *(coming soon)*  
-📧 **prasurjya@domain.com** *(placeholder)*  
+📧 **prasparadise@gmail.com** 
 
 ---
 
