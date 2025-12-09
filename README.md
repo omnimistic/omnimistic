@@ -13,7 +13,7 @@ I’m also interested in **AI, robotics, data science and web development**
 🎯 **Currently:**
 - Preparing for **JEE 2027**
 - Developing **games in Godot**
-- Experimenting with **physics simulations using C++**
+- Experimenting with **retro renders in Blender**
 
 ---
 
@@ -60,7 +60,7 @@ I’m also interested in **AI, robotics, data science and web development**
 
 ### 📫 Connect  
 🐙 [GitHub](https://github.com/omnimistic)  
-🌐 [Portfolio Website](#) *(coming soon)*  
+🌐 [Portfolio Website](https://omnimistic.github.io/portfolio) *(in development)*  
 📧 **omnimistix@gmail.com** 
 
 ---
