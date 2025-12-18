@@ -1,4 +1,6 @@
-# 👋 Yo! I'm Prasurjya  
+<h1 align="center"> 👋 Yo! I'm Prasurjya </h1>
+<!-- <h3 align="center"></h3> -->
+![Profile views](https://komarev.com/ghpvc/?username=omnimistic&label=Profile%20views&color=004488&style=flat)
 
 🎮 16-year-old Hobbyist Game Developer from India | Focused on Game Design, AI, and Creative Coding
 
