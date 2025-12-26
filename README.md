@@ -62,7 +62,7 @@ I’m also interested in **AI, robotics, data science and web development**
 
 ### 📫 Connect  
 🐙 [GitHub](https://github.com/omnimistic)  
-🌐 [Portfolio Website](https://omnimistic.github.io/portfolio)
+🌐 [Portfolio Website](https://omnimistic.github.io/portfolio)  
 📧 **omnimistix@gmail.com** 
 
 ---
