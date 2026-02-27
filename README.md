@@ -2,7 +2,7 @@
 <!-- <h3 align="center"></h3> -->
 <img src="https://komarev.com/ghpvc/?username=omnimistic&label=Profile%20views&color=004488&style=flat">
 
-🎮 16-year-old Hobbyist Game Developer from India | Focused on Game Design, AI, and Creative Coding
+🎮 17-year-old Hobbyist Game Developer from India | Focused on Game Design, AI, and Creative Coding
 
 ---
 
