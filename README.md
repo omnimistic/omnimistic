@@ -26,7 +26,7 @@ Beyond game dev, I explore **ML, data science, and web development.**
 
 ### Current Focus
 * **Academic:** Preparing for **JEE 2027** (and failing).
-* **Development:** Building random **tools** in C++ adn Python
+* **Development:** Building random **tools** in C++ and Python
 * **Art:** Experimenting with **retro renders** in Blender
 
 ---
