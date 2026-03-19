@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://komarev.com/ghpvc/?username=omnimistic&label=Profile%20views&color=004488&style=flat">
+  <img align="left" src="https://komarev.com/ghpvc/?username=omnimistic&label=Profile%20views&color=DC143C&style=flat-square&abbreviated=true)">
   Hobbyist Game Developer from India | Focused on Game Design, ML, and Creative Coding ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 </p>
 
