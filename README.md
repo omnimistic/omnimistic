@@ -25,7 +25,6 @@ Beyond game dev, I explore **ML, data science, and web development.**
 | **Development** | Neovim, Git |
 
 ### Current Focus
-* **Academic:** Preparing for **JEE 2027** (and failing).
 * **Development:** Building random **tools** in C++ and Python
 * **Art:** Experimenting with **retro renders** in Blender
 
@@ -33,7 +32,6 @@ Beyond game dev, I explore **ML, data science, and web development.**
 
 ### Connect
 * **GitHub:** [omnimistic](https://github.com/omnimistic)
-* **Portfolio:** [omnimistic.github.io/portfolio](https://omnimistic.github.io/portfolio)
 * **Email:** omnimistix@gmail.com
 
 ---
