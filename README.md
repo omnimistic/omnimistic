@@ -32,6 +32,7 @@ Beyond game dev, I explore **ML, data science, and web development.**
 
 ### Connect
 * **GitHub:** [omnimistic](https://github.com/omnimistic)
+* **Portfolio:** [omnimistic.github.io/portfolio](https://omnimistic.github.io/)
 * **Email:** omnimistix@gmail.com
 
 ---
